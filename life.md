@@ -1,7 +1,7 @@
 @vjit's life
 ===============
 
-- 11/12/1994 Born, *Ahmedabad*
+- 11/12/1994 *Ahmedabad*, Born
 - ~1998 Kindergarten
 - 03/1999-03/2004 *Chandimandir*, Army Public School
 - ~2001 Learned to swim
