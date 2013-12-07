@@ -1,22 +1,14 @@
-@cheeaun's life
+@vjit's life
 ===============
 
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 First tweet
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 HackerWeb featured on Hacker News' front page
-- 01/07/2013-~ Software Engineer - Viki
+- 11/12/1994 Born
+- ~1998 Kindergarten
+- 03/1999-03/2004 Chandimandir, Army Public School
+- ~2001 Learned to swim
+- ~2003 Started drawing as a hobby
+- ~2003 Learned to ride a horse
+- 03/2004-04/2008 Pathankot, Angel's Public School
+- 05/2005 First computer
+- 04/2008-02/2010 Jammu, JK Public School
+- 4/2010-4/2011 Jammu, Delhi Public School
+- 25/07/2011-~ Lucknow, Amity School of Engineering & Technology
