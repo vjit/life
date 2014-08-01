@@ -10,6 +10,6 @@
 - 03/2004-04/2008 Pathankot, Angel's Public School
 - 05/2005 First computer
 - 04/2008-02/2010 Jammu, JK Public School
-- 4/2010-4/2011 Bathinda, Delhi Public School
-- 7/2010 Started beatboxing 
+- 04/2010-04/2011 Bathinda, Delhi Public School
+- 07/2010 Started beatboxing 
 - 25/07/2011-~ Lucknow, Amity School of Engineering & Technology
