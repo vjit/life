@@ -12,6 +12,6 @@
 - 04/2008-02/2010 Jammu, JK Public School
 - 04/2010-04/2011 Bathinda, Delhi Public School
 - 07/2010 Discovered beatboxing 
-- 25/07/2011-~ Lucknow, Amity School of Engineering & Technology
+- 25/07/2011-05/2015 Lucknow, Amity School of Engineering & Technology
 - 03/05/2014-12/05/2014 Intern at InMotion
 - 17/07/2015-~ UI/UX at InMotion
